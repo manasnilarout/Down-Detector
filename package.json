@@ -1,0 +1,32 @@
+{
+  "name": "down-detector",
+  "version": "1.0.0",
+  "description": "Down detector service using gen ai capabilities",
+  "main": "src/magic.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manasnilarout/Down-Detector.git"
+  },
+  "type": "module",
+  "keywords": [
+    "Gen",
+    "AI",
+    "Gemini",
+    "PRO",
+    "Down",
+    "Detetor"
+  ],
+  "author": "manasnilarout",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manasnilarout/Down-Detector/issues"
+  },
+  "homepage": "https://github.com/manasnilarout/Down-Detector#readme",
+  "dependencies": {
+    "@google/generative-ai": "^0.2.0",
+    "dotenv": "^16.4.2"
+  }
+}
